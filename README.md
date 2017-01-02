@@ -4,7 +4,7 @@
 
 Execute the script below anywhere in the target server.
 
-`sudo curl https://raw.githubusercontent.com/newestapps/nw-cli/master/install.sh && sudo /bin/bash`
+`sudo curl sudo curl https://raw.githubusercontent.com/newestapps/nw-cli/master/install.sh | sudo /bin/bash`
 
 ##Compatibility
 
