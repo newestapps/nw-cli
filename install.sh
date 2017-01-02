@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CLI_URL="https://newestapps.com.br/cli/newestapps.sh"
+CLI_URL="https://raw.githubusercontent.com/newestapps/nw-cli/master/source/newestapps.sh"
 INSTALL_LOCATION="/usr/bin"
 BIN_NAME="newestapps"
 TEMP_NAME="newestapps.sh"
